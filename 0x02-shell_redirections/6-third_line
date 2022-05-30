@@ -1,1 +1,2 @@
-cat iacta | awk 3
+#!/bin/bash
+| head -3 |tail -1
